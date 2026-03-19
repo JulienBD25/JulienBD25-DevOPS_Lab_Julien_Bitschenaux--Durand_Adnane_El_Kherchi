@@ -1,6 +1,6 @@
 # Rapport de TP : Orchestration de conteneurs avec Kubernetes
 
-**Nom :** Julien Bitschenaux--Durand
+**Nom :** Julien Bitschenaux--Durand et Adnane El Kherchi
 
 ---
 
